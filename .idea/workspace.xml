@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30f11cd4-8cb4-4170-80cb-d41c706a0dee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/BackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/BackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/entity/Bracelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/entity/Bracelet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/repository/history/SubscriptionHistoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/repository/history/SubscriptionHistoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/AnnualSubscriptionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/AnnualSubscriptionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/AreaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/AreaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/BraceletService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/BraceletService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/history/OvenHistoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/pds_aled_back/src/main/java/com/application/aled/service/history/OvenHistoryServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pds_aled_front" />
+  </component>
+  <component name="ProjectId" id="1YMJF5csMrhnJnOYQ1NPvv0H9cK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pds_aled_back" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30f11cd4-8cb4-4170-80cb-d41c706a0dee" name="Default Changelist" comment="" />
+      <created>1582746427967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582746427967</updated>
+      <workItem from="1582746453062" duration="433000" />
+      <workItem from="1589802067003" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
